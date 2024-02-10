@@ -1,5 +1,5 @@
 # American Fuzzy Lop plus plus (AFL++)
-
+change version = 1.0.0
 <img align="right" src="https://raw.githubusercontent.com/AFLplusplus/Website/main/static/aflpp_bg.svg" alt="AFL++ logo" width="250" heigh="250">
 
 Release version: [4.10c](https://github.com/AFLplusplus/AFLplusplus/releases)
