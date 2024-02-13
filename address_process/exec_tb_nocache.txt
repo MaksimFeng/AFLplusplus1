@@ -1,0 +1,8 @@
+Script started on 2024-02-12 21:10:28+00:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="167" LINES="25"]
+[?2004h(base) ]0;kai@kai-Latitude-5420: ~/project/qemu-afl/AFLPLUSSPLUSS_DEV/AFLplusplus[01;32mkai@kai-Latitude-5420[00m:[01;34m~/project/qemu-afl/AFLPLUSSPLUSS_DEV/AFLplusplus[00m$ afl-qemu-trace -d trace:exec_tb vulnerable fuzz -m none -i include/ -o output/ -Q ./vulnerable @@[15Pqemu-trace -d trace:exec_tb vulnerable [1@_[1@n[1@o[9@cache.txt[1P[1P[1P[1P
+[?2004l
+it is good!
+[?2004h(base) ]0;kai@kai-Latitude-5420: ~/project/qemu-afl/AFLPLUSSPLUSS_DEV/AFLplusplus[01;32mkai@kai-Latitude-5420[00m:[01;34m~/project/qemu-afl/AFLPLUSSPLUSS_DEV/AFLplusplus[00m$ [?2004l
+exit
+
+Script done on 2024-02-12 21:10:47+00:00 [COMMAND_EXIT_CODE="0"]
